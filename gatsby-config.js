@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Feen N.`,
+    title: `Napat F.`,
     author: {
       name: `Napat Dollapavijit`,
       summary: `who loves eating Pad Ka-pao, loves traveling, and is a swifty. IM PRIDE 🏳️‍🌈`,
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Feen N.`,
+        name: `Napat F.`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,
