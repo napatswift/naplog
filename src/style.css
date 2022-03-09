@@ -60,7 +60,9 @@
   --color-heading: #fff;
   --color-heading-black: #fff;
   --color-accent: rgb(255, 167, 196);
+
   --bg: #282c35;
+  --inlineCode-bg: #011627;
 }
 
 /* HTML elements */
@@ -494,3 +496,19 @@ a:focus {
    float: left;
    min-width: 100%;
  }
+
+.blog-post-item{
+  background-color: var(--inlineCode-bg);
+  padding: 1rem;
+  border-radius: .4rem;
+}
+
+.blog-posts{
+  padding: 0rem;
+}
+
+iframe {
+  width: 100%;
+  height: 100%;
+  border: 0rem;
+}
